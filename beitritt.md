@@ -4,6 +4,10 @@ permalink: /beitritt
 layout: page
 ---
 
-Hier bekommst du unsere Beitrittserklärung <a href="assets/beitritt.pdf" target="_blank">zum Herunterladen</a>.
+Hier wird es demnächst wieder unsere Beitrittserklärung zum Herunterladen geben. Die Datei reichen wir nach :)
 
-{% pdf "assets/beitritt.pdf" no_link %}
+
+[//]: # (Hier bekommst du unsere Beitrittserklärung <a href="assets/beitritt.pdf" target="_blank">zum Herunterladen</a>.)
+
+[//]: # ()
+[//]: # ({% pdf "assets/beitritt.pdf" no_link %})
