@@ -24,16 +24,30 @@ description: >- # this means to ignore newlines until "baseurl:"
   Der Rockmusikverein ist ein gemeinnütziger Verein zur Förderung von lokalen 
   Künstlern, Bands und Liveveranstaltungen
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.rockmusikverein.de"
+instagram_username: rockmusikverein
+facebook_username: rockmusikverein
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
 minima:
   skin: dark
+  social_links:
+    - { platform: instagram, user_url: "https://instagram.com/rockmusikverein" }
+    - { platform: facebook,  user_url: "https://facebook.com/rockmusikverein" }
+    - { platform: linktree,  user_url: "https://linktr.ee/rockmusikverein" }
+
+header_pages:
+  - tickets.md
+  - galerie.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
