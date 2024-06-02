@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rockmusikverein
+title: Rockmusikverein Verne
 email: info@rockmusikverein.de
 description: >- # this means to ignore newlines until "baseurl:"
   Der Rockmusikverein ist ein gemeinnütziger Verein zur Förderung von lokalen 
@@ -48,6 +48,8 @@ minima:
 header_pages:
   - tickets.md
   - galerie.md
+  - beitritt.md
+  - satzung.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
