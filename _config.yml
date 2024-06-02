@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-pdf-embed
 
 whitelist:
   - jekyll-redirect-from
