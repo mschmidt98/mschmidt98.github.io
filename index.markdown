@@ -17,4 +17,4 @@ Dieses Jahr mit **Vex**, **Wanted Inc.** und **Rødel**
 ### 02.11.2024 - Scheunenrock
 Der altbekannte Jahresabschluss, dieses Jahr mit **Matt Eagle** und **Pussy Sister**
 
-<img src="/assets/images/vorstand.jpg" width="740" height="987" alt="Unser Vorstand" loading="lazy" />
+<img src="/assets/images/vorstand.jpg" width="740" height="987" alt="Unser Vorstand" loading="lazy" style="object-fit: contain" />
