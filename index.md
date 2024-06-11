@@ -11,7 +11,7 @@ title: Willkommen
 ### 07.09.2024 - Rock the Boat
 Die vierte Edition mit **Die Therapeuten** und **Begbies Pint**
 
-### 13.10.2024 - Metal in Verne
+### 12.10.2024 - Metal in Verne
 Dieses Jahr mit **Vex**, **Wanted Inc.** und **Rødel**
 
 ### 02.11.2024 - Scheunenrock
