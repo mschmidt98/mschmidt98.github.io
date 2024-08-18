@@ -37,7 +37,8 @@ Dosenöffner für eure Konservenmusik.</p>
 
 <img src="/assets/images/rock-the-boat-24/therapeuten-740x493.jpg" width="740" height="493" alt="Begbies Pint" loading="lazy" style="object-fit: contain" />
 
-<p style="text-align: justify">**Einlass** an Bord ist um 18:30 Uhr, Abfahrt um 19:00 Uhr (Hauptanlegestelle Sperrmauer,
+<p style="text-align: justify">
+<span style="font-weight: bold">Einlass</span> an Bord ist um 18:30 Uhr, Abfahrt um 19:00 Uhr (Hauptanlegestelle Sperrmauer,
 59519 Möhnesee). Die Tickets kosten 28€ und sind erhältlich bei der Tankstelle
 HALFMANN in Verne, Haustechnik SCHAUB in Salzkotten (Lange Str. 13), beim Vorstand
 des Rockmusikvereins (Rockscheune in Verne, Langenhagen 31) sowie online über den Link oben.</p>
