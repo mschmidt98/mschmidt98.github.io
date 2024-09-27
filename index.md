@@ -6,68 +6,61 @@ layout: page
 title: Willkommen
 ---
 
-## ROCK THE BOAT „fear“ (IV) – Jetzt noch Tickets sichern!
-<p style="text-align: justify">Am **07.09.2024** ist es wieder soweit: gemeinsam mit rund 200 Rock- Fans entert der
-Rockmusikverein e.V. das Fahrgastschiff auf dem Möhnesee. Das Event „**ROCK THE
-BOAT**“ zählt zu den Highlights der jährlichen Events, dieses Mal mit den Bands
-„**DIE THERAPEUTEN**“ und „**BEGBIES PINT**“.</p>
+## METAL IN VERNE am 12. Oktober
+<p style="text-align: justify">METAL-Fans aufgepasst: 
+Die Rockscheune in Verne öffnet erneut ihre Tore für das Metal-Highlight des Jahres 2024! 
+Mit 3 hochkarätigen Bands darf man sich wieder auf einen energiegeladenen und 
+schweißtreibenden Abend freuen:</p>
 
-### BEGBIE'S PINT
-<p style="text-align: justify">Sieben motivierte Highlander haben sich zusammengerottet und die Irish Folk (Rock)
-Band „Begbie’s Pint“ ins Leben gerufen. Getragen durch das traditionelle irische Musikgut,
-wie „The Dubliners“ und „The Pogues“, und inspiriert durch moderne Folk Rock
-Formationen, wie „Dropkick Murphys“ und „Fiddlers Green“, sorgt „Begbie’s Pint“ für beste
-Laune mit Pub-Atmosphäre. Mit Akkordeon, Banjo, Bodhrán, Geige, Gitarre, Kontrabass,
-Mandoline und Tin Whistle sind sämtliche traditionellen Instrumente dieser Stilrichtung
-vertreten.</p>
+### VEX – GROOVECORE AUS DEM SCHWARZWALD
+<p style="text-align: justify">wird nach mehr als 10jähriger 
+Abstinenz in der Rockscheune den Abend eröffnen. 
+Irgendwo zwischen Papa's Spaltaxt und Mutti's Kirschtorte findet man die Musik der vier 
+Schwarzwälder Jungs wieder. Meist sind es die Holzfällermanieren, die den Ton angeben, 
+doch jeder Holzfäller braucht ab und zu eine kleine Leckerei. So trifft Metal- und Hardcore 
+auf viel Groove, und daraus wird dann „GROOVECORE“. 
+Bildlich ist das, wie wenn man mit der Axt die Torte schneidet... einfach mal was Neues.</p>
 
-<img src="/assets/images/rock-the-boat-24/begbies-pint-740x486.jpg" width="740" height="486" alt="Begbies Pint" loading="lazy" style="object-fit: contain" />
+<img src="/assets/images/miv24/vex_740x247.jpg" width="740" height="247" alt="VEX" loading="lazy" style="object-fit: contain" />
 
-### Die Therapeuten - Das unverdaute Maiskorn in der Gesäßrahmsoße der deutschen Coverband Landschaft
-<p style="text-align: justify">Der menschgewordene Pflasterstein am Schneidezahn des
-Musikpolizisten. Und dennoch schallgewordenes Dopamin für das Ohr des geneigten
-Hörers. Der manifestierte, von sämtlichen 90er Jahre Partykellerdecken der Republik
-getropfte, Schweiß. Ausgeschwitzt zu Songs von die Ärzte, den Toten Hosen, Iron Maiden,
-Rage against the Machine, System of a down, Green Day, AC/DC, Manowar, Judas Priest,
-Wizo und vielen mehr. Ein Live Erlebnis der besonderen Art. Therapie für die Band als
-auch für das Publikum. Niemand geht nach einer Therapiesitzung ohne heisere Stimme,
-Nackenschmerzen und Kater nach Hause. Und man ist trotzdem glücklich dabei gewesen
-zu sein. Lasst uns eure Party zu was besonderem machen, denn die Therapeuten sind der
-Dosenöffner für eure Konservenmusik.</p>
+### WANTED INC. aus CHAM
+<p style="text-align: justify">sind bereits seit 2011 auf der Bühne, und jetzt ebenfalls zurück 
+in der Rockscheune! 
+„New line-up, new songs, new album. No compromise.Heavy Thrash Metal.“
+So ist es auf ihrer Homepage zu lesen, und die Liste ihrer Veröffentlichungen kann sich sehen 
+lassen: 
+Dead For The First Time (Album Release Jan. 2024)
+Embarrassment To The Establishment (Album 2018)
+King For A Day (EP 2014)
+Demons We Created (Album 2012)
+Scarcollector (The Wanted, Album 2009)
+Shows done with:
+Refuge, Rage, Blind Illusion, Tankard, Holy Moses, Sodom, Asphyx, Saxon, Artillery, Lordi, Dust 
+Bolt, Tarchon Fist, Master, Dieversity, Taste Of Greed, Diabolos Dust, a. s. o.</p>
 
-<img src="/assets/images/rock-the-boat-24/therapeuten-740x493.jpg" width="740" height="493" alt="Begbies Pint" loading="lazy" style="object-fit: contain" />
+<img src="/assets/images/miv24/wanted-inc_740x740.png" width="740" height="740" alt="Begbies Pint" loading="lazy" style="object-fit: contain" />
+
+<p style="text-align: justify">Zu guter Letzt werden dann die Lokalmatadoren von</p>
+### RØDEL
+<p style="text-align: justify">die Bühne rocken:
+Die Paderborner Band verspricht energiegeladenen Stonerrock mit Einflüssen aus Punkrock 
+und Heavy Metal. 
+Ihre drei Alben „RØDEL“, „Goat Djini“ und „Wrath“ haben bereits eine große 
+Fangemeinde erobert, und voller Spannung darf man das Motto der Band erwarten:
+„Ihr wollt Dreck? RØDEL liefert“! 
+</p>
+
+<img src="/assets/images/miv24/rodel_740x740.jpg" width="740" height="740" alt="Begbies Pint" loading="lazy" style="object-fit: contain" />
 
 <p style="text-align: justify">
-<span style="font-weight: bold">Einlass</span> an Bord ist um 18:30 Uhr, Abfahrt um 19:00 Uhr (Hauptanlegestelle Sperrmauer,
-59519 Möhnesee). Die Tickets kosten 28€ und sind erhältlich bei der Tankstelle
-HALFMANN in Verne, Haustechnik SCHAUB in Salzkotten (Lange Str. 13), beim Vorstand
-des Rockmusikvereins (Rockscheune in Verne, Langenhagen 31) sowie online über den Link oben.</p>
-
-**Es gibt keine Abendkasse!**
-
-Aus dem Stadtgebiet Salzkotten wird ein Bus eingesetzt.  
-
-Der Bus- Fahrplan:  
-17:00 Uhr Mastholte, Sportplatz  
-17:10 Uhr Westenholz, Kirche  
-17:20 Uhr Delbrück, Laumes Kamp  
-17:25 Uhr Boke, Schwanenkrug  
-17:30 Uhr Verne, Böddeker  
-17:35 Uhr Salzkotten, Bahnhof  
-17:44 Uhr Geseke, Haltestelle Kahrweg  
-17:50 Uhr Geseke, Autohof Steinhausen  
-18:25 Uhr Ankunft Möhnesee, Sperrmauer  
-
-Während der Busfahrt wird für Getränke zu fairen Preisen gesorgt sein!
-Die Rückfahrt ist für 24 Uhr geplant.
-
-Tickets für die Busfahrt kosten 15€ und können ebenfalls an den genannten VVK- Stellen
-erworben werden.
+Tickets gibt es im Vorverkauf für 15€ bei Tankstelle Halfmann in Verne, Haustechnik 
+SCHAUB, Lange Str. 13 in Salzkotten und beim Rockmusikverein, Langenhagen 31 in 
+Verne. 
+<span style="font-weight: bold">Einlass</span> ist um 19:30 Uhr. Es gibt auch eine Abendkasse (Tickets dann für 18€).
+Speisen und Getränke zu fairen Preisen gehören wie immer zum guten Ton des 
+Rockmusikvereins. e.V. </p>
 
 ## Nächste Events
-
-### 07.09.2024 - Rock the Boat
-Die vierte Edition mit **Die Therapeuten** und **Begbies Pint**
 
 ### 12.10.2024 - Metal in Verne
 Dieses Jahr mit **Vex**, **Wanted Inc.** und **Rødel**
