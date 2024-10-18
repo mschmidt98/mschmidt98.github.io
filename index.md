@@ -23,20 +23,22 @@ Rockmusikvereins. e.V. </p>
 
 Wir sehen uns im Jahr 2025 wieder. Hier unsere aktuelle Terminplanung. Alle Infos und Termine können sich noch ändern, über Änderungen informieren wir natürlich so früh es geht.
 
-### 22.02.2025
-Jahreshauptversammlung für alle Mitglieder und Interessierte in der VIP-Lounge der Rockscheune.
+### 22.02.2025:  Jahreshauptversammlung
+Für alle Mitglieder und Interessierte in der VIP-Lounge der Rockscheune.
 
-### 21. und 22.03.2025
-Folk Rock - Details folgen so bald wie möglich
+### 21. und 22.03.2025: Folk Rock
+Details folgen so bald wie möglich
 
-### 13.09.2025
-Wir haben neue Pläne mit Euch. Save the date - Details folgen so bald wie möglich.
+### 13.09.2025: Open Air
+Nach neun Jahren versuchen wir uns endlich wieder an einem Open Air. In diesem Jahr an <span style="font-weight: bold">Schäfermeiers Mühle</span> in Verne.
+<span style="font-weight: bold">Umsonst und draußen</span> und für einen guten Zweck.  
+Save the Date!
 
 ### 11.10.2025
 Unsere Oktober-Veranstaltung. Vielleicht als <span style="font-style: italic">Metal in Verne</span>, vielleicht aber auch nicht ;)
 
-### 08.11.2025
-Scheunenrock - Details folgen
+### 08.11.2025: Scheunenrock
+Details folgen
 
 <br />
 <br />
