@@ -6,7 +6,18 @@ layout: page
 title: Willkommen
 ---
 
-## Scheunenrock am 02. November
+## <span style="font-weight: bold">UPDATE</span> zum Scheunenrock am 02. November
+
+<p><span style="font-weight: bold">Pussy Sister</span> werden leider nicht auf dem Scheunenrock 2024 spielen. Als hochkarätigen Ersatz haben wir für euch
+<span style="font-weight: bold">MANDEL KOKAIN SCHNAPS</span> organisiert.</p>
+
+<p>
+Provokantes Auftreten und gesellschaftskritische Themen sind Kennzeichen von MandelKokainSchnaps.
+Die Berliner Band tritt vor allem für Vielfalt, Offenheit, Respekt und Menschenliebe ein.
+Verpackt wird dies mit rotzigen Rock / Pop / Punk Klängen und einer Bühnenshow, die jedem/r Zuschauer*in in Erinnerung bleiben wird.
+</p>
+
+<img src="/assets/images/scheunenrock-24_740x1033.jpg" width="740" height="1033" alt="Scheunenrock 2024 mit Matt Eagle und Pussy Sister" loading="lazy" style="object-fit: contain" />
 
 Tickets ab sofort für 15€ bei <span style="font-weight: bold">Tankstelle Halfmann</span> in Verne, <span style="font-weight: bold">Haustechnik
 SCHAUB</span>, Lange Str. 13 in Salzkotten, beim <span style="font-weight: bold">Rockmusikverein</span>, Langenhagen 31 in
@@ -16,8 +27,9 @@ Verne und <a href="https://rockmusikverein.ticket.io" target="_blank">online üb
 Speisen und Getränke zu fairen Preisen gehören wie immer zum guten Ton des
 Rockmusikvereins. e.V. </p>
 
-<img src="/assets/images/scheunenrock-24_740x1031.jpg" width="740" height="1031" alt="Scheunenrock 2024 mit Matt Eagle und Pussy Sister" loading="lazy" style="object-fit: contain" />
-
+<br/>
+<br/>
+<br/>
 
 ## Nächste Events
 
