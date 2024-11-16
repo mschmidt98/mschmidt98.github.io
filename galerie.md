@@ -9,6 +9,8 @@ permalink: /galerie/
 <img loading="lazy" width="740" height="493" alt="Soul Harvester beim Scheunenrock 2019" src="/assets/images/galerie-top-pic.jpg"/>
 
 ### 2024
+<a href="https://photos.app.goo.gl/Ge1E2CYuvkDHqdzT9" target="photos">Scheunenrock 2024</a>  
+<a href="https://photos.app.goo.gl/zbHyu3wJnkenKe5g8" target="photos">Metal in Verne 2024</a>  
 <a href="https://photos.app.goo.gl/9VQhWe1218U5zvVy7" target="photos">Rock the Boat IV</a>  
 <a href="https://photos.app.goo.gl/umUcGFDRCBjYuG616" target="photos">Folk Rock 2024</a>
 
