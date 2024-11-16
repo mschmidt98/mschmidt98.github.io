@@ -6,40 +6,19 @@ layout: page
 title: Willkommen
 ---
 
-## <span style="font-weight: bold">UPDATE</span> zum Scheunenrock am 02. November
-
-<p><span style="font-weight: bold">Pussy Sister</span> werden leider nicht auf dem Scheunenrock 2024 spielen. Als hochkarätigen Ersatz haben wir für euch
-<span style="font-weight: bold">MANDEL KOKAIN SCHNAPS</span> organisiert.</p>
-
-<p>
-Provokantes Auftreten und gesellschaftskritische Themen sind Kennzeichen von MandelKokainSchnaps.
-Die Berliner Band tritt vor allem für Vielfalt, Offenheit, Respekt und Menschenliebe ein.
-Verpackt wird dies mit rotzigen Rock / Pop / Punk Klängen und einer Bühnenshow, die jedem/r Zuschauer*in in Erinnerung bleiben wird.
-</p>
-
-<img src="/assets/images/scheunenrock-24_740x1033.jpg" width="740" height="1033" alt="Scheunenrock 2024 mit Matt Eagle und Pussy Sister" loading="lazy" style="object-fit: contain" />
-
-Tickets ab sofort für 15€ bei <span style="font-weight: bold">Tankstelle Halfmann</span> in Verne, <span style="font-weight: bold">Haustechnik
-SCHAUB</span>, Lange Str. 13 in Salzkotten, beim <span style="font-weight: bold">Rockmusikverein</span>, Langenhagen 31 in
-Verne und <a href="https://rockmusikverein.ticket.io" target="_blank">online über ticket.io</a>.
-
-<p><span style="font-weight: bold">Einlass</span> ist um 19:30 Uhr. Solange verfügbar, gibt es Tickets an der Abendkasse für 18€.
-Speisen und Getränke zu fairen Preisen gehören wie immer zum guten Ton des
-Rockmusikvereins. e.V. </p>
-
-<br/>
-<br/>
-<br/>
-
 ## Nächste Events
 
+Das Jahr 2024 liegt hinter uns. Danke an alle von euch, die uns unterstützt haben.
 Wir sehen uns im Jahr 2025 wieder. Hier unsere aktuelle Terminplanung. Alle Infos und Termine können sich noch ändern, über Änderungen informieren wir natürlich so früh es geht.
 
-### 22.02.2025:  Jahreshauptversammlung
+### 25.01.2025: Geänderter Termin: Jahreshauptversammlung
 Für alle Mitglieder und Interessierte in der VIP-Lounge der Rockscheune.
 
-### 21. und 22.03.2025: Folk Rock
+### 22.02.2025: (Stoner)-Metal in Verne
 Details folgen so bald wie möglich
+
+### 21. und 22.03.2025: Folk Rock
+Details und Vorverkauf folgen so bald wie möglich
 
 ### 13.09.2025: Open Air
 Nach neun Jahren versuchen wir uns endlich wieder an einem Open Air. In diesem Jahr an <span style="font-weight: bold">Schäfermeiers Mühle</span> in Verne.
