@@ -1,0 +1,21 @@
+.home__flyer-row {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 16px;
+    flex-wrap: wrap;
+
+    img {
+        object-fit: contain;
+    }
+}
+
+.index__event {
+    display: grid;
+    gap: 32px;
+    grid-template-columns: 1fr 1fr;
+
+    h4 {
+        margin-top: 0;
+    }
+}
