@@ -9,16 +9,6 @@ title: Willkommen
 ## Nächste Events
 
 <div class="home__flyer-row">
-<div>
-    <a href="#metal-in-verne">
-        <img src="/assets/images/home-flyer/metal.jpg" alt="Plakat zum Metal in Verne" width="135" height="190" />            
-    </a>
-</div>
-
-<div>
-    <a href="#folk-rock">
-        <img src="/assets/images/home-flyer/folkrock.jpg" alt="Plakat zum Metal in Verne" width="135" height="190" />            
-    </a></div>
 
 <div>
     <a href="#muehlen-rock">
@@ -34,71 +24,6 @@ title: Willkommen
     <a href="#scheunenrock">
         <img src="/assets/images/home-flyer/scheunenrock.jpg" alt="Plakat zum Metal in Verne" width="135" height="190" />            
     </a></div>
-
-</div>
-
-<h3 id="jhv">25.01.2025: Geänderter Termin: Jahreshauptversammlung</h3>
-
-Am **Samstag, den 25. Januar um 20 Uhr**, findet in der Rockscheune unsere Jahreshauptversammlung statt.
-
-Wie immer mit:
-Essen und Trinken frei, Jahresrückblick und -vorschau, Kassenbericht, Neuwahlen von Teilen des Vorstandes und
-interessanten Gesprächen.
-Außerdem gibt's auch Tickets für die ersten Events des Jahres:
-<a href="#metal-in-verne">**METAL IN VERNE**</a> mit _IN SANITY_, _BRAD HART_ und _SETSUNAI_ am **22. Februar 2025**.
-
-Ebenfalls habt ihr als RMV-Mitglieder exklusiv die Möglichkeit, am Ende der JHV bereits Tickets für
-das <a href="#folk-rock">**FOLKROCK**</a>-EVENT zu erwerben!  
-Danach gibt's erst wieder FOLKROCK-Tickets bei der METAL IN VERNE-Veranstaltung am 22. Februar oder ganz offiziell ab
-dem 24. Februar bei den bekannten Vorverkaufsstellen (Tankstelle Halfmann in Verne, Haustechnik SCHAUB in Salzkotten und
-bei uns) !!!
-
-<h3 id="metal-in-verne">22.02.2025: Metal in Verne</h3>
-<div class="index__event">
-    <div class="index__event__text">
-        <h4>In Sanity - Melodic Death Metal</h4>
-<p>Melodic Death Metal mit Power für die alltäglichen und ungewöhnlichen Herausforderungen des Lebens! Ist es noch Vernunft oder doch Wahnsinn?
-Nach über einem Jahrzehnt zweistimmiger Gitarren und beinharter Metal-Sounds setzen In Sanity zu neuen Höhen an. Die “New Wave Of German Melodic Death Metal” mit den typischen Melo-Death-Benchmarks, sowie einer Portion epischer Riffs umrahmt von teuflischen Vocals, lässt den Fünfer frisch und härter klingen.</p>
-
-<h4>Setsunai - Alternative Metal</h4>
-<p>Setsunai aus Paderborn mischen seit 2019 Metal, Punk und Alternative. Dabei werden 90er-Jahre-Riffs mit Hairspray-Solos aus den Achtzigern kombiniert und die vielfältigen Vocals liefern von rockig bis hart passend dazu ab.</p>
-
-<h4>Brad Hart - Hard Rock / Metal Cover</h4>
-<p>Brad Hart steht für melodischen Hard Rock und Metal der 70er, 80er, 90er und mehr - kompromisslos, ehrlich, schnörkellos, ungeschminkt und publikumsnah!
-Hier und da nachgeschärft mit einer Extra-Prise aus dem High-Gain-Streuer!
-That's it!
-In klassischer Besetzung bestehend aus Ralf Heider (Bass/Vocals), Stefan Janssen (Guitar/Vocals), Stefan Schneider (Guitar) und Daniel Henszel (Drums) nageln die Jungs ihre Songs mit frischem Anstrich aufs Brett, ohne den genre-typischen Sound alter Zeit vermissen zu lassen –
-Brad Hart eben!</p>
-
-    </div>
-    <div class="index__event__image">
-        <img src="/assets/images/home-flyer/metal.jpg" height="380" width="270" />
-    </div>
-
-</div>
-
-<h3 id="folk-rock">21. und 22.03.2025: Folk Rock</h3>
-<div class="index__event">
-    <div class="index__event__image">
-        <img src="/assets/images/home-flyer/folkrock.jpg" height="380" width="270" />
-    </div>
-    <div class="index__event__text">
-<h4>Ticket To Happiness - Folk Rock</h4>
-<p>Mehrfach preisgekrönter Folk Rock auf Deutsch und Englisch! Energiegeladen, mitreißend, gefühlvoll! Eine einzigartige Mischung aus positiver Leichtigkeit und starken Statements. Ob auf Platte oder Live, Ticket To Happiness schafft es immer wieder das Publikum und sich selbst in einen emotionalen Zustand der Freude, der Feierlaune und des Glücks zu versetzen.
-Handgemachte Musik, die mitreißt und begeistert!</p>
-
-<h4>The Rogues From County Hell - Irish Folk Punk (nur 21.03.2025)</h4>
-<p>The Rogues From County Hell spielen Irish Folk Punk ganz im Sinne der legendären Pogues:
-Eindringliche irische Melodien, vorgetragen von Tin Whistle, Akkordeon und Banjo, gepaart mit der Kraft einer druckvollen, treibenden Rhythmusgruppe aus Gitarre, Bass und Schlagzeug bilden den musikalischen Boden, auf dem Sänger „Acci“ Büdenbender seiner leidenschaftlichen Gesangspower freien Lauf lassen kann. Wenn die Rogues spielen, dann bleibt kein Bein still, denn die Mischung aus irischer Stimmung und dynamischer Rhythmuspower lädt von der ersten bis zur letzten Sekunde zum Tanzen und Abrocken ein.</p>
-
-<h4>Kilkenny Bastard - Irish Folk Punk (nur 22.03.2025)</h4>
-<p>Die Kilkenny Bastards aus Iserlohn - energiegeladener Irish Folk Punk.
-Sie bringen Tanz- und Trinkmusik auf die Bühne, mit traditionellen irischen Liedern und eigenen Kompositionen, die von der ersten Minute zum Tanzen und Mitsingen einladen.</p>
-
-<h4>The West Highlanders Pipes and Drums - Dudelsackmusik</h4>
-<p>Die West Highlanders Pipes and Drums sind eine Pipeband aus Geseke und spielen traditionelle schottische Dudelsackmusik. Mit der Gründung der Band haben sich echte Schottlandfans zusammengefunden, die den natürlichen und rauen Charme des schottischen Hochlands lieben und das in ihrer Musik ausdrücken wollen.</p>
-
-    </div>
 
 </div>
 
