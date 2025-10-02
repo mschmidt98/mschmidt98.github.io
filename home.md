@@ -1,5 +1,5 @@
 ---
 title: Home Umleitung
-permalink: /home
+permalink: /home/
 redirect_to: /
 ---
