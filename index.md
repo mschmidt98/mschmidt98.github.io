@@ -8,26 +8,32 @@ title: Willkommen
 
 ## Nächste Events
 
-<h3 id="scheunenrock">08.11.2025: Scheunenrock</h3>
-<div class="index__event">
-    <div class="index__event__text">
-<h4>V8Wankers - Kick-Ass-Speedrock</h4>
-<p>V8Wankers, gegründet im Jahr 2000, sind Deutschlands Speerspitze des harten Motorrocks. 10 Alben und unzählige Veröffentlichungen auf Vinyl zeugen von ihrem unbeirrbaren Weg durch die Abgründe zwischen Punk und Rock. Er führte sie ins Vorprogramm von Bands wie Motörhead, The Exploited oder Gluecifer. Auf Europatourneen mit Rose Tattoo, Girlschool und WASP sowie rund um den Globus, von den USA über Südamerika bis ins ferne Australien. Weltweit kennt man die Faust des Rock’n’Rolls. Ob große Festivals wie Wacken, With Full Force oder Mighty Sounds. Ob Autotreffen, Tattoo Conventions oder Biker Parties, die V8Wankers rocken jede Bühne mit Vollgas!
-Also verpasst nicht die nächste Gelegenheit Offenbach‘s Nummer Eins live zu erleben!</p>
+Das Jahr 2025 liegt hinter uns. Danke an alle von euch, die uns unterstützt haben.
+Wir sehen uns im Jahr 2026 wieder. Hier unsere aktuelle Terminplanung. Alle Infos und Termine können sich noch ändern, über Änderungen informieren wir natürlich so früh es geht.
 
-<h4>Hunter - Rock 'N' Roll V.I.P.</h4>
-<p>Die in den 1980er Jahren gegründete Band Hunter, bestehend aus den Gründungsmitgliedern Steven Brandy (Gitarre) und Schlagzeuger Paul „Mosh“ B. Herrmann, steht seit jeher für rifflastigen und geradlinigen Heavy Rock’n’Roll. Beeinflusst von der NWOBHM-Ära, verkörpert Hunter eingängigen Heavy Rock mit hohem Unterhaltungs- und Wiedererkennungswert.</p>
-<p>Mit einem neuen Line-up, ergänzt durch Ringin’ D. (Gitarre), H. Van Noize (Bass) und der kraftvollen Stimme von Frontmann Steve Strater, beeindruckt Hunter erneut mit ihrem vierten Longplayer „Rock’n’Roll V.I.P.“ und ist bereit, die Heavy-Rock-Szene im Jahr 2025 kräftig durchzurütteln.</p>
-<p>Die erste Single „Who Needs The Devil (When You’re Already In Hell)“ hat bereits acht Wochen vor der Albumveröffentlichung international für Aufsehen gesorgt und erhält mit ihrem eingängigen Groove und ausdrucksstarken Refrain positive Resonanz im In- und Ausland. Mit der zweiten Single „The Eagles Fly High“ präsentiert die Band eine Stadionhymne, die dem Eishockeyclub Adler Mannheim gewidmet ist und das Team sowie die Fans zu neuen Höhenflügen anspornen soll.</p>
-<p>Erste Albumrezensionen verstärken die vielversprechenden Erwartungen an „Rock’n’Roll V.I.P.“, das in den Amazon-Vorbestellercharts „Hot & New Releases“ direkt auf Platz 25 eingestiegen ist.</p>
-<p>Live auf der Bühne sind Hunter eine Macht und ein Erlebnis, wie sie kürzlich bei der Headbangers Night III in Frankenthal erneut unter Beweis gestellt haben. Gitarrist Steven Brandy beschreibt es treffend: „Wir spielen nicht nur ein Konzert, unser Anspruch ist, dass die Leute mit einem Wow-Gefühl nach Hause gehen...!“</p>
+### 24.01.2026: BryanTime
+Die Bryan Adams Tribute Band <span style="font-weight: bold">BryanTime!</span> besuchen uns und drehen ein Live Video.
 
-    </div>
-    <div class="index__event__image">
-        <img src="/assets/images/home-flyer/scheunenrock.jpg" height="380" width="270" />
-    </div>
+### 31.01.2026: Jahreshauptversammlung
+Für alle Mitglieder und Interessierte in der Rockscheune.
 
-</div>
+### 21.02.2026: Filmpremiere "Das Ehrenamt"
+Das Metal Diver lädt zur Filmpremiere in die Schützenhalle von Marsberg ein.
+
+### 28.02.2025: StonerMetalPunk
+Mit Vostok Import, RØDEL und INTERIA aus Berlin.
+
+### 20. und 21.03.2025: Folk Rock
+Mit In Search Of A Rose und Kilkenny Bastards
+
+### 12.09.2026: Rock The Boat
+Details folgen so bald wie möglich
+
+### 10.10.2026
+Details folgen so bald wie möglich
+
+### 07.11.2026: Scheunenrock
+Details folgen so bald wie möglich
 
 <br />
 <br />
