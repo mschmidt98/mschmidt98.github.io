@@ -8,6 +8,59 @@ permalink: /galerie/
 
 <img loading="lazy" width="740" height="493" alt="Soul Harvester beim Scheunenrock 2019" src="/assets/images/galerie-top-pic.jpg" class="gallery__header-image"  />
 
+### 2025
+
+<div class="gallery__grid-row">
+
+<a href="https://photos.app.goo.gl/fgAfvnhDrsLhr1bk9" target="photos" class="gallery__event-flyer" style="grid-column: 1; grid-row: 1">
+    <img width="135" height="190" src="/assets/images/gallery-preview/2025-metal.jpg"  alt="Metal in Verne"/>
+</a>
+<a href="https://photos.app.goo.gl/fgAfvnhDrsLhr1bk9" target="photos" style="grid-column: 1; grid-row: 2">
+    <div class="gallery__event-title">
+        Metal in Verne
+    </div>
+</a>
+
+<a href="https://photos.app.goo.gl/gtGjrWQfCapdsatX7" target="photos" class="gallery__event-flyer" style="grid-column: 2; grid-row: 1">
+    <img width="135" height="190" src="/assets/images/gallery-preview/2025-folkrock.jpg"  alt="Folk Rock"/>
+</a>
+<a href="https://photos.app.goo.gl/gtGjrWQfCapdsatX7" target="photos" style="grid-column: 2; grid-row: 2">
+    <div class="gallery__event-title">
+        Folk Rock
+    </div>
+</a>
+
+<a href="https://photos.app.goo.gl/wXpVVc63yfW32Crn6" target="photos" class="gallery__event-flyer" style="grid-column: 3; grid-row: 1">
+    <img width="135" height="190" src="/assets/images/gallery-preview/2025-muehlenrock.jpg"  alt="Mühlenrock"/>
+</a>
+<a href="https://photos.app.goo.gl/wXpVVc63yfW32Crn6" target="photos" style="grid-column: 3; grid-row: 2">
+    <div class="gallery__event-title">
+        Mühlenrock
+    </div>
+</a>
+
+<!--
+<a href="https://photos.app.goo.gl/zcPTL62nkmEPtVYK7" target="photos" class="gallery__event-flyer" style="grid-column: 4; grid-row: 1">
+    <img width="135" height="190" src="/assets/images/gallery-preview/2025-deutschrock.jpg"  alt="Deutschrock"/>
+</a>
+<a href="https://photos.app.goo.gl/zcPTL62nkmEPtVYK7" target="photos" style="grid-column: 4; grid-row: 2">
+    <div class="gallery__event-title">
+        Deutschrock
+    </div>
+</a>
+-->
+
+<a href="" target="photos" class="gallery__event-flyer" style="grid-column: 5; grid-row: 1">
+    <img width="135" height="190" src="/assets/images/gallery-preview/2025-scheunenrock.jpg"  alt="Scheunenrock"/>
+</a>
+<a href="" target="photos" style="grid-column: 5; grid-row: 2">
+    <div class="gallery__event-title">
+        Scheunenrock
+    </div>
+</a>
+
+</div>
+
 ### 2024
 
 <div class="gallery__grid-row">
