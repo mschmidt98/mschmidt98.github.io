@@ -20,10 +20,10 @@ Für alle Mitglieder und Interessierte in der Rockscheune.
 ### 21.02.2026: Filmpremiere "Das Ehrenamt"
 Das Metal Diver lädt zur Filmpremiere in die Schützenhalle von Marsberg ein.
 
-### 28.02.2025: StonerMetalPunk
+### 28.02.2026: StonerMetalPunk
 Mit Vostok Import, RØDEL und INTERIA aus Berlin.
 
-### 20. und 21.03.2025: Folk Rock
+### 20. und 21.03.2026: Folk Rock
 Mit In Search Of A Rose und Kilkenny Bastards
 
 ### 12.09.2026: Rock The Boat
@@ -32,7 +32,7 @@ Details folgen so bald wie möglich
 ### 10.10.2026
 Details folgen so bald wie möglich
 
-### 07.11.2026: Scheunenrock
+### 14.11.2026: Scheunenrock
 Details folgen so bald wie möglich
 
 <br />
