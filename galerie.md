@@ -39,23 +39,12 @@ permalink: /galerie/
     </div>
 </a>
 
-<!--
 <a href="https://photos.app.goo.gl/zcPTL62nkmEPtVYK7" target="photos" class="gallery__event-flyer" style="grid-column: 4; grid-row: 1">
     <img width="135" height="190" src="/assets/images/gallery-preview/2025-deutschrock.jpg"  alt="Deutschrock"/>
 </a>
 <a href="https://photos.app.goo.gl/zcPTL62nkmEPtVYK7" target="photos" style="grid-column: 4; grid-row: 2">
     <div class="gallery__event-title">
         Deutschrock
-    </div>
-</a>
--->
-
-<a href="" target="photos" class="gallery__event-flyer" style="grid-column: 5; grid-row: 1">
-    <img width="135" height="190" src="/assets/images/gallery-preview/2025-scheunenrock.jpg"  alt="Scheunenrock"/>
-</a>
-<a href="" target="photos" style="grid-column: 5; grid-row: 2">
-    <div class="gallery__event-title">
-        Scheunenrock
     </div>
 </a>
 
